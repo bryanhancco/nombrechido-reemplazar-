@@ -4,6 +4,10 @@ class Calculator {
 	}
 	int sub(int a, int b){ return 0; }
 	//prueba
+	int add(int a, int b){ return 0; }
+	int sub(int a, int b){
+		return a-b;
+	}
 	int mul(int a, int b){ return 0; }
 	int div(int a, int b){ 
         return a/b; 
